@@ -17,7 +17,8 @@
 	"uniqueId": "vimxtkc4v2y",
 	"objectTypes": {
 		"items": [
-			"Спрайт"
+			"Спрайт",
+			"Спрайт2"
 		],
 		"subfolders": []
 	},
